@@ -1,0 +1,5 @@
+# Ignore all executable files
+*.exe
+
+# Ignore all compiled executable files (no extension)
+memoryEngine
