@@ -3,3 +3,6 @@
 
 # Ignore all compiled executable files (no extension)
 memoryEngine
+
+#Ignore all HTML Statement files
+*.html
